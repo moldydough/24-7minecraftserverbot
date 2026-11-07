@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 999,
       "messages": [
-        "I'm def a regular player",
-        "get a job",
-        "I want ur mom"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
